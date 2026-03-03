@@ -21,6 +21,6 @@ To analyse Blinkit grocery sales data and identify revenue trends, outlet perfor
 - Outlet Size & Location Analysis
 - Interactive Filters
 
-## Files Included
-- Power BI (.pbix) file
-- Dashboard screenshots
+## Dashboard Preview
+<img width="2014" height="1135" alt="blinkit_dashboard_screenshot" src="https://github.com/user-attachments/assets/f553a4d1-38f7-4829-aa75-1a01b3bd85b7" />
+
