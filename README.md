@@ -8,6 +8,14 @@ To analyse Blinkit grocery sales data and identify revenue trends, outlet perfor
 - DAX
 - Power Query
 
+## Dataset
+
+The dataset was cleaned and standardised in Excel and Power Query before visualisation.
+
+Key transformation:
+- Standardised Item Fat Content categories using conditional logic.
+- Removed inconsistencies in categorical values.
+
 ## Key Insights
 - Tier 3 outlets generate the highest overall sales.
 - Medium-sized outlets contribute the largest revenue share.
